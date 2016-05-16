@@ -1,0 +1,2 @@
+# COMP102-JAVA
+VUW COMP102 assignments.
